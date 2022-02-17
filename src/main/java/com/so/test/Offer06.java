@@ -16,7 +16,13 @@ public class Offer06 {
     }
 
     public static int[] reversePrint(ListNode head) {
+        
+        
+        
         ListNode node = head;
+        
+        
+        
         int count = 0;
         while (node != null) {
             ++count;
