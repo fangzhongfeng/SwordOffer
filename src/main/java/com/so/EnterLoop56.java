@@ -8,10 +8,17 @@ package com.so;
  * @date 2017/08/30
  */
 public class EnterLoop56 {
+
+    public static void main(String[] args) {
+        
+    }
+
     /**
      * 链表
      */
     static class ListNode {
+
+
         int val;
         ListNode next = null;
 
